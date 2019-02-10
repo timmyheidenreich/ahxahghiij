@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aingush.styleguides.io/sitemap.xml
